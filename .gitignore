@@ -1,5 +1,5 @@
 node_modules
-README-template.md
-package-log.json
 challenge
+README-template.md
+package-lock.json
 *.zip
